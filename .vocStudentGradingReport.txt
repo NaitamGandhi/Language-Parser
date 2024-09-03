@@ -1,0 +1,314 @@
+
+[Executed at: Mon May 18 8:01:00 PDT 2020]
+
+SUCCESS!
+RESULT: compiles [ 1 / 1 ]
+RUNNING prog4 hard5
+i lied this is easy "or is it???"??
+---------- checking result
+RESULT: hard5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <hard4
+0: Missing semicolon
+0: No statements in program
+RESULT: hard4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <hard1
+0: Invalid statement
+0: No statements in program
+RESULT: hard1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 emptyfile
+0: No statements in program
+RESULT: emptyfile [  1  / 1 ]
+----------------------------
+RUNNING prog4 hard3
+Watch out for that 
+---------- checking result
+RESULT: hard3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 hard2
+RUNTIME ERROR at 1: Variable used but not assigned
+---------- checking result
+RESULT: hard2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 good5
+1000
+83
+6
+0
+---------- checking result
+RESULT: good5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <good4
+helo world
+hello world
+helo world
+heo world
+heo word
+heo word
+ok, bye
+---------- checking result
+RESULT: good4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 emptyfile emptyfile
+ONLY ONE FILE NAME ALLOWED
+---------- checking result
+RESULT: toomanyfile [  1  / 1 ]
+----------------------------
+RUNNING prog4 <good1
+100100
+-900
+2428207
+---------- checking result
+RESULT: good1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 good3
+hello world    hellohello
+helphelphelphelp
+---------- checking result
+RESULT: good3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 good2
+22
+36
+5
+---------- checking result
+RESULT: good2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad3
+RUNTIME ERROR at 7: Variable used but not assigned
+---------- checking result
+RESULT: bad3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad2
+10312
+RUNTIME ERROR at 2: Type error on multiplication
+---------- checking result
+RESULT: bad2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <bad1
+RUNTIME ERROR at 3: control expression not an integer
+---------- checking result
+RESULT: bad1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 easy4
+5
+---------- checking result
+RESULT: easy4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <easy5
+1---------- checking result
+RESULT: easy5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 easy2
+4---------- checking result
+RESULT: easy2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <easy3
+15
+---------- checking result
+RESULT: easy3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad5
+1: Invalid statement
+1: Missing statement for repeat
+RESULT: bad5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad4
+0: Invalid statement
+0: No statements in program
+RESULT: bad4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 easy1
+3---------- checking result
+RESULT: easy1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 nosuchfile
+CANNOT OPEN nosuchfile
+---------- checking result
+RESULT: nosuchfile [  1  / 1 ]
+----------------------------
+
+SUMMARY:
+RESULT: compiles [ 1 / 1 ]
+RESULT: hard5 [  1  / 1 ]
+RESULT: hard4 [  1  / 1 ]
+RESULT: hard1 [  1  / 1 ]
+RESULT: emptyfile [  1  / 1 ]
+RESULT: hard3 [  1  / 1 ]
+RESULT: hard2 [  1  / 1 ]
+RESULT: good5 [  1  / 1 ]
+RESULT: good4 [  1  / 1 ]
+RESULT: toomanyfile [  1  / 1 ]
+RESULT: good1 [  1  / 1 ]
+RESULT: good3 [  1  / 1 ]
+RESULT: good2 [  1  / 1 ]
+RESULT: bad3 [  1  / 1 ]
+RESULT: bad2 [  1  / 1 ]
+RESULT: bad1 [  1  / 1 ]
+RESULT: easy4 [  1  / 1 ]
+RESULT: easy5 [  1  / 1 ]
+RESULT: easy2 [  1  / 1 ]
+RESULT: easy3 [  1  / 1 ]
+RESULT: bad5 [  1  / 1 ]
+RESULT: bad4 [  1  / 1 ]
+RESULT: easy1 [  1  / 1 ]
+RESULT: nosuchfile [  1  / 1 ]
+TOTAL SCORE 24 out of 24
+
+SUCCESS!
+RESULT: compiles [ 1 / 1 ]
+RUNNING prog4 hard5
+i lied this is easy "or is it???"??
+---------- checking result
+RESULT: hard5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <hard4
+0: Missing semicolon
+0: No statements in program
+RESULT: hard4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <hard1
+0: Invalid statement
+0: No statements in program
+RESULT: hard1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 emptyfile
+0: No statements in program
+RESULT: emptyfile [  1  / 1 ]
+----------------------------
+RUNNING prog4 hard3
+Watch out for that 
+---------- checking result
+RESULT: hard3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 hard2
+RUNTIME ERROR at 1: Variable used but not assigned
+---------- checking result
+RESULT: hard2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 good5
+1000
+83
+6
+0
+---------- checking result
+RESULT: good5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <good4
+helo world
+hello world
+helo world
+heo world
+heo word
+heo word
+ok, bye
+---------- checking result
+RESULT: good4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 emptyfile emptyfile
+ONLY ONE FILE NAME ALLOWED
+---------- checking result
+RESULT: toomanyfile [  1  / 1 ]
+----------------------------
+RUNNING prog4 <good1
+100100
+-900
+2428207
+---------- checking result
+RESULT: good1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 good3
+hello world    hellohello
+helphelphelphelp
+---------- checking result
+RESULT: good3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 good2
+22
+36
+5
+---------- checking result
+RESULT: good2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad3
+RUNTIME ERROR at 7: Variable used but not assigned
+---------- checking result
+RESULT: bad3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad2
+10312
+RUNTIME ERROR at 2: Type error on multiplication
+---------- checking result
+RESULT: bad2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <bad1
+RUNTIME ERROR at 3: control expression not an integer
+---------- checking result
+RESULT: bad1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 easy4
+5
+---------- checking result
+RESULT: easy4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <easy5
+1---------- checking result
+RESULT: easy5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 easy2
+4---------- checking result
+RESULT: easy2 [  1  / 1 ]
+----------------------------
+RUNNING prog4 <easy3
+15
+---------- checking result
+RESULT: easy3 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad5
+1: Invalid statement
+1: Missing statement for repeat
+RESULT: bad5 [  1  / 1 ]
+----------------------------
+RUNNING prog4 bad4
+0: Invalid statement
+0: No statements in program
+RESULT: bad4 [  1  / 1 ]
+----------------------------
+RUNNING prog4 easy1
+3---------- checking result
+RESULT: easy1 [  1  / 1 ]
+----------------------------
+RUNNING prog4 nosuchfile
+CANNOT OPEN nosuchfile
+---------- checking result
+RESULT: nosuchfile [  1  / 1 ]
+----------------------------
+
+SUMMARY:
+RESULT: compiles [ 1 / 1 ]
+RESULT: hard5 [  1  / 1 ]
+RESULT: hard4 [  1  / 1 ]
+RESULT: hard1 [  1  / 1 ]
+RESULT: emptyfile [  1  / 1 ]
+RESULT: hard3 [  1  / 1 ]
+RESULT: hard2 [  1  / 1 ]
+RESULT: good5 [  1  / 1 ]
+RESULT: good4 [  1  / 1 ]
+RESULT: toomanyfile [  1  / 1 ]
+RESULT: good1 [  1  / 1 ]
+RESULT: good3 [  1  / 1 ]
+RESULT: good2 [  1  / 1 ]
+RESULT: bad3 [  1  / 1 ]
+RESULT: bad2 [  1  / 1 ]
+RESULT: bad1 [  1  / 1 ]
+RESULT: easy4 [  1  / 1 ]
+RESULT: easy5 [  1  / 1 ]
+RESULT: easy2 [  1  / 1 ]
+RESULT: easy3 [  1  / 1 ]
+RESULT: bad5 [  1  / 1 ]
+RESULT: bad4 [  1  / 1 ]
+RESULT: easy1 [  1  / 1 ]
+RESULT: nosuchfile [  1  / 1 ]
+TOTAL SCORE 24 out of 24
